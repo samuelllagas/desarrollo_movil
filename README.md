@@ -1,7 +1,7 @@
 ## desarrollo_movil
 # Aplicación de desarrollo móvil
 
-La finalidad del trqabajo es ayudar a las micro empresas 
+La finalidad del trabajo es ayudar a las micro empresas 
 
 ## Integrantes 
 
