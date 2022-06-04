@@ -1,4 +1,4 @@
-## desarrollo_movil
+# Desarrollo_movil
 # Aplicación de desarrollo móvil
 
 La finalidad del trabajo es ayudar a las micro empresas 
